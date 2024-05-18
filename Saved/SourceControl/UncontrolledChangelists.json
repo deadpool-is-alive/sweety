@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/anshy/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter_BP.uasset",
+				"C:/Users/anshy/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/anshy/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
