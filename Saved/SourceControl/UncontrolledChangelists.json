@@ -5,9 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/anshy/sweety/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/anshy/sweety/Content/MyMyActor.uasset",
+				"C:/Users/anshy/sweety/Content/BP_Player1.uasset",
 				"C:/Users/anshy/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter_BP.uasset",
 				"C:/Users/anshy/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
-				"C:/Users/anshy/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset"
+				"C:/Users/anshy/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/anshy/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/Interactables/Lever_BP.uasset",
+				"C:/Users/anshy/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/MyMyActor1.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset",
+				"C:/Users/anshy/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/MyMyActor.uasset",
+				"C:/Users/anshy/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/UpDownObstacle.uasset",
+				"C:/Users/anshy/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/BP_Rotator.uasset",
+				"C:/Users/anshy/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/Props/PuzzlePieces/PuzzleCube_A/SM_PuzzleCube_A.uasset",
+				"C:/Users/anshy/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/LearningKit_Games/Assets/Props/Buttons/Button_A/SM_Button_A.uasset"
 			]
 		}
 	]

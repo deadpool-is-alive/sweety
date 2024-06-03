@@ -16,6 +16,22 @@
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
+		"file": "C:\\Users\\anshy\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit 5.3\\Source\\UnrealLearningKit\\RotatingLog.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\anshy\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit 5.3\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\anshy\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit 5.3\\Source\\UnrealLearningKit\\RotatingLog.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\anshy\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit 5.3\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "C:\\Users\\anshy\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit 5.3\\Source\\UnrealLearningKit\\UnrealLearningKit.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
@@ -33,6 +49,22 @@
 	},
 	{
 		"file": "C:\\Users\\anshy\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit 5.3\\Source\\UnrealLearningKit\\UnrealLearningKit.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\anshy\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit 5.3\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\anshy\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit 5.3\\Source\\UnrealLearningKit\\kuchbhi.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\anshy\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit 5.3\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\anshy\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit 5.3\\Source\\UnrealLearningKit\\kuchbhi.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
 			"@C:\\Users\\anshy\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit 5.3\\.vscode\\compileCommands_Default\\UnrealLearningKit.1.rsp"

@@ -20,24 +20,47 @@ void AMyActor::BeginPlay()
 	
 }
 
+
 // Called every frame
 void AMyActor::Tick(float DeltaTime)
 {
-	FVector CurrentLocation;
+	
 	Super::Tick(DeltaTime);
+	ToFroMotion(DeltaTime);
+	Rotator(DeltaTime);
+}
+
+void AMyActor::Rotator(float DeltaTime)
+{
+	FRotator CurrentRotation = GetActorRotation();
+	CurrentRotation += RotationSpeed * DeltaTime;
+	SetActorRotation(CurrentRotation);
+}
+
+
+void AMyActor::ToFroMotion(float DeltaTime)
+{
+	FVector CurrentLocation;
 	CurrentLocation = GetActorLocation();
 	CurrentLocation += MovementSpeed * DeltaTime;
 	SetActorLocation(CurrentLocation);
-	DistanceMoved = FVector::Dist(StartLocation, CurrentLocation);
+	// DistanceMoved = FVector::Dist(StartLocation, CurrentLocation);
 
-	if(DistanceMoved >= MoveDistance)
+	if(DestinationReached(CurrentLocation))
 	{
 		FVector MoveDirection = MovementSpeed.GetSafeNormal();
 		StartLocation += MoveDistance*MoveDirection;
 		SetActorLocation(StartLocation);
+		FString s = GetActorNameOrLabel();
 		float offset = FVector::Dist(StartLocation, GetActorLocation());
-		UE_LOG(LogTemp,Warning,TEXT("Log Printing %f"),offset);
+		UE_LOG(LogTemp,Warning,TEXT("Log Printing %s"),*s);
 		MovementSpeed = -MovementSpeed;
 	}
+}
+
+bool AMyActor::DestinationReached(FVector CurrentLocation) const
+{
+	float DistanceMoved = FVector::Dist(StartLocation, CurrentLocation);
+	return DistanceMoved >= MoveDistance;
 }
 
